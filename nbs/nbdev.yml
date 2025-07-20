@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tiny-tokenizer"
+  site-url: "https://numb3r33.github.io/tiny-tokenizer"
+  description: "Understand how tokenizer works in fast.ai ecosystem"
+  repo-branch: main
+  repo-url: "https://github.com/numb3r33/tiny-tokenizer"
